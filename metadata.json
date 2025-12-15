@@ -1,0 +1,5 @@
+{
+  "name": "LBP Global Health Dashboard",
+  "description": "An interactive health economics dashboard analyzing the global burden, costs, and diagnostic challenges of Low Back Pain based on The Lancet series.",
+  "requestFramePermissions": []
+}
